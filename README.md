@@ -4,7 +4,6 @@
 </head>
 <body>
     <div>
-        <h1>Digital Shield VPN</h1>
         <table>
             <tr>
                 <td>
