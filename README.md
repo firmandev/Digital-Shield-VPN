@@ -1,4 +1,4 @@
-<img src="(https://play-lh.googleusercontent.com/NDE-4I0wEyqdYs7S_8xok_ths4X7Xdh34Ckq8TfuR2WKqdyi8--wPzC0gGlYa-0kZ9ms=w480-h960-rw" width="300">
+<img src="(https://play-lh.googleusercontent.com/NDE-4I0wEyqdYs7S_8xok_ths4X7Xdh34Ckq8TfuR2WKqdyi8--wPzC0gGlYa-0kZ9ms=w480-h960-rw" width="300px">
 
 Digital Shield is a FREE UNLIMITED VPN that was created to protect your online privacy and make life harder for hackers by anonymizing your traffic and location. But you can also use it for many other things like fast and secure browsing, and more.
 
