@@ -21,3 +21,9 @@ When you’re connected to a VPN server, all your internet traffic is encrypted.
 
   When to use code ?</p>
 Change the payment method when paying the 1 yearly plan, the code will be reedemed.
+
+
+
+[![googlePlay](https://play.google.com/store/apps/details?id=com.digitalshield&hl=en&gl=US)](https://lh3.googleusercontent.com/q1k2l5CwMV31JdDXcpN4Ey7O43PxnjAuZBTmcHEwQxVuv_2wCE2gAAQMWxwNUC2FYEOnYgFPOpw6kmHJWuEGeIBLTj9CuxcOEeU8UXyzWJq4NJM3lg=s0)
+
+
