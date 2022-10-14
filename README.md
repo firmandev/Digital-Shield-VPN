@@ -21,10 +21,11 @@
             </tr>
         </table>
         
+        <h3>
         Digital Shield is a FREE UNLIMITED VPN that was created to protect your online privacy and make life harder for hackers by anonymizing your traffic and
         location. But you can also use it for many other things like fast and secure browsing, and more.
         Using Digital Shield can give some benefits:
-        
+        </h3>
 
         <p>
 * Digital Shield VPN encrypts all the data you send over the internet
