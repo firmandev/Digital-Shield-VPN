@@ -4,7 +4,7 @@
 
 
 
-<body>
+<body style="background-color:'black'">
 <table>
   <tr>
     <td><img src="https://play-lh.googleusercontent.com/4tOrdJRtykP9l25AvlVv1lVtuSWwCa9Ls22ZDZ7LqdDW5KYnXqphxEsNsJoV0TFGrg=w526-h296-rw" width="100%"></td>
