@@ -34,6 +34,7 @@
             * Digital Shield VPN is unlimited free forever without reducing the quality, no limit the bandwidth usage, speed and with less ads of course (soon we are going to make subscription features with more benefit).
             
             * Digital Shield VPN is using simple UI, so you don't need to think so hard to use it, just open the apps and click connect button.
+        
         <h2> PROMO CODE =  ILOVEDS </h2>
         <p>30 days free trial + you have to subscribe 1 year (your money will be back if you cancel before free trial is done)
         When to use code ?
