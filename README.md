@@ -1,17 +1,5 @@
-
----
-[![github]([https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png](https://play-lh.googleusercontent.com/NDE-4I0wEyqdYs7S_8xok_ths4X7Xdh34Ckq8TfuR2WKqdyi8--wPzC0gGlYa-0kZ9ms=s56-rw))][1]
-# Digital Shield VPN
-
-
- Digital Shield is a FREE UNLIMITED VPN that was created to protect your online privacy and make life harder for hackers by anonymizing your traffic and location. But  # you can also use it for many other things like fast and secure browsing, and more.
-
- Using Digital Shield can give some benefits:
- * Digital Shield VPN encrypts all the data you send over the internet
- When you’re connected to a VPN server, all your internet traffic is encrypted. This means that nobody can see what you’re doing online, not even your internet service # provider (ISP). And that means your ISP can't throttle your speeds either.
-
- * Digital Shield VPN can unblock websites that are only available in a specific country (like Netflix Japan is only available for IP addresses registered in Japan) the  website is blocked inside a specific country (like Facebook in China)
-
- * Digital Shield VPN is unlimited free forever without reducing the quality, no limit the bandwidth usage, speed and with less ads of course (soon we are going to make  subscription features with more benefit).
-
- * Digital Shield VPN is using simple UI, so you don't need to think so hard to use it, just open the apps and click connect button.
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+title: [The title of your site]
+description: [A short description of your site's purpose]
