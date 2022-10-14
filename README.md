@@ -20,11 +20,12 @@
                 </td>
             </tr>
         </table>
-        <p>    
+        
         Digital Shield is a FREE UNLIMITED VPN that was created to protect your online privacy and make life harder for hackers by anonymizing your traffic and
         location. But you can also use it for many other things like fast and secure browsing, and more.
         Using Digital Shield can give some benefits:
-        </p>
+        
+        
         
             * Digital Shield VPN encrypts all the data you send over the internet
             When you’re connected to a VPN server, all your internet traffic is encrypted. This means that nobody can see what you’re doing online, not even your internet service provider (ISP). And that means your ISP can't throttle your speeds either.
@@ -34,6 +35,7 @@
             * Digital Shield VPN is unlimited free forever without reducing the quality, no limit the bandwidth usage, speed and with less ads of course (soon we are going to make subscription features with more benefit).
             
             * Digital Shield VPN is using simple UI, so you don't need to think so hard to use it, just open the apps and click connect button.
+        
         
         <h2> PROMO CODE =  ILOVEDS </h2>
         <p>30 days free trial + you have to subscribe 1 year (your money will be back if you cancel before free trial is done)
