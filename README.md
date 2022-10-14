@@ -6,3 +6,4 @@ When you’re connected to a VPN server, all your internet traffic is encrypted.
 * Digital Shield VPN can unblock websites that are only available in a specific country (like Netflix Japan is only available for IP addresses registered in Japan) the website is blocked inside a specific country (like Facebook in China)
 * Digital Shield VPN is unlimited free forever without reducing the quality, no limit the bandwidth usage, speed and with less ads of course (soon we are going to make subscription features with more benefit).
 * Digital Shield VPN is using simple UI, so you don't need to think so hard to use it, just open the apps and click connect button.
+
