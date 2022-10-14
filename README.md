@@ -1,6 +1,9 @@
-<img src="https://play-lh.googleusercontent.com/NDE-4I0wEyqdYs7S_8xok_ths4X7Xdh34Ckq8TfuR2WKqdyi8--wPzC0gGlYa-0kZ9ms=w480-h960-rw" width="10%">
-
-
+<table>
+  <tr>
+    <td valign="center"><img src="https://play-lh.googleusercontent.com/NDE-4I0wEyqdYs7S_8xok_ths4X7Xdh34Ckq8TfuR2WKqdyi8--wPzC0gGlYa-0kZ9ms=w480-h960-rw" width="30%"></td>
+    <td valign="center"><h1>DIGITAL SHIELD VPN</h1></td>
+  </tr>
+</table>
 
 <img src="https://play-lh.googleusercontent.com/4tOrdJRtykP9l25AvlVv1lVtuSWwCa9Ls22ZDZ7LqdDW5KYnXqphxEsNsJoV0TFGrg=w526-h296-rw" width="10%"> <img src="https://play-lh.googleusercontent.com/HHJXM9-xSppEYEqejJkboiTZv7BfAbSx8TD_KCDU4IhYgqONZ8sNU6mvmMAlJMHpaLo1=w526-h296-rw" width="10%"> <img src="https://play-lh.googleusercontent.com/h57P0yuu0lW_kBgM0maHUsRkO5oRPtaAWNLtETtMZ573yNvexKbIWzJPjM1aGvnxtg=w526-h296-rw" width="10%"> <img src="https://play-lh.googleusercontent.com/50Z3GdxglgNzX40sCCIac2WH7xIdWe4k91br9qF7lt3ll0Du48agndf53uW-1ATUvVk=w526-h296-rw" width="10%"> 
 
@@ -14,3 +17,9 @@ When you’re connected to a VPN server, all your internet traffic is encrypted.
 * Digital Shield VPN is unlimited free forever without reducing the quality, no limit the bandwidth usage, speed and with less ads of course (soon we are going to make subscription features with more benefit).
 * Digital Shield VPN is using simple UI, so you don't need to think so hard to use it, just open the apps and click connect button.
 
+
+<h2> CODE =  ILOVEDS </h2>
+<p>30 days free trial + you have to subscribe 1 year (your money will be back if you cancel before free trial is done)
+
+  When to use code ?</p>
+Change the payment method when paying the 1 yearly plan, the code will be reedemed.
