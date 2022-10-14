@@ -1,4 +1,4 @@
-![alt text](https://play-lh.googleusercontent.com/NDE-4I0wEyqdYs7S_8xok_ths4X7Xdh34Ckq8TfuR2WKqdyi8--wPzC0gGlYa-0kZ9ms=w480-h960-rw =100x20)
+![alt text](https://play-lh.googleusercontent.com/NDE-4I0wEyqdYs7S_8xok_ths4X7Xdh34Ckq8TfuR2WKqdyi8--wPzC0gGlYa-0kZ9ms=w480-h960-rw)
 
 
 
