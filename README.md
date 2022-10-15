@@ -55,7 +55,7 @@ Change the payment method when paying the 1 yearly plan, the code will be reedem
             <img src="./testimonial1.jpeg" width="100%">
         </td>
         <td>
-            <img src="./testimonial1.jpeg" width="100%">
+            <img src="./testimonial2.jpeg" width="100%">
         </td>
     </tr>
 </table>
