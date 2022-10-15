@@ -1,6 +1,6 @@
 title: Digital Shield
 description: Unlimited Bandwidth and Secured VPN
-# logo : './favicon.ico'
+logo : './favicon.ico'
 favicon : './favicon.ico'
 theme   : './style.css'
 show_downloads: false
