@@ -6,7 +6,7 @@
 </p>
 
 <p>
-    This policy sets out how we process any personal data we collect from you or that you provide to us through our website. We confirm that we will keep your information secure. Please read the following carefully to understand what happens to personal data that you choose to provide to us, or that we collect from you when you using Digital Shield VPN. By using Digital Shield VPN, you are accepting and consenting to the practices described in this policy.
+    This policy sets out how we process any personal data we collect from you or that you provide to us through our apps / website. We confirm that we will keep your information secure. Please read the following carefully to understand what happens to personal data that you choose to provide to us, or that we collect from you when you using Digital Shield VPN. By using Digital Shield VPN, you are accepting and consenting to the practices described in this policy.
 </p>
 
 <p>
