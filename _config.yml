@@ -3,3 +3,5 @@ description: Unlimited Bandwidth and Secured VPN
 show_downloads: false
 google_analytics:
 remote_theme: pages-themes/minimal@v0.2.0
+github:
+  is_project_page: false
