@@ -25,10 +25,14 @@ including the following:
     technical information :
 </p>
 <p>
+    <b>
     - including error / bugs messages log. 
+    </b>
 </p>
 <p>
+    <b>
     - the payload that API we use for calling API.
+    </b>
 </p>
    
 
@@ -41,13 +45,19 @@ We have to tell this important informations that :
 </b>
 </p>
 <p>
+<b>
 - We never collects your browsing history, IP address and others.
+</b>
 </p>
 <p>
+<b>
 - We never asking permissions such as camera, microphones and others.
+</b>
 </p>
 <p>
+<b>
 - We only asking internet and network permission for our app to work properly.
+</b>
 </p>
 <p>
 We will use all reasonable efforts to ensure that your personal data is not disclosed to regional/national institutions and authorities, unless required by law or other regulations.
