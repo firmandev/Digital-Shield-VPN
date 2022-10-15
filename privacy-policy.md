@@ -21,9 +21,9 @@ Information our application automatically collects about you. With regard to eac
     - including error / bugs messages log. 
     - the payload that API we use for calling API.
 </p>
-<p>
+<h2>
 We have to tell this important informations that :
-</p>
+</h2>
 <p>
 - We do not rent, sell or share personal information about you with other people or non-affiliated companies.
 </p>
