@@ -20,13 +20,23 @@ Information our application automatically collects about you. With regard to eac
     technical information :
     - including error / bugs messages log. 
     - the payload that API we use for calling API.
-
+</p>
+<p>
 We have to tell this important informations that :
+</p>
+<p>
 - We do not rent, sell or share personal information about you with other people or non-affiliated companies.
+</p>
+<p>
 - We never collects your browsing history, IP address and others.
+</p>
+<p>
 - We never asking permissions such as camera, microphones and others.
+</p>
+<p>
 - We only asking internet and network permission for our app to work properly.
-
+</p>
+<p>
 We will use all reasonable efforts to ensure that your personal data is not disclosed to regional/national institutions and authorities, unless required by law or other regulations.
 </p>
 <p>
