@@ -16,16 +16,29 @@ We may collect, store and use the following kinds of personal information about 
 
 Information you supply to us. You may supply us with information about you by filling in forms on our application. This includes information you provide when you submit a feedback form. The information you give us may include your version of Digital Shield VPN app and the feedback that you input .
 
-Information our application automatically collects about you. With regard to each of your interacting to our application we may automatically collect information including the following:
+Information our application automatically collects about you. With regard to each of your interacting to our application we may automatically collect information 
+</p>
+<p>
+including the following:
+</p>
+<p>
     technical information :
+</p>
+<p>
     - including error / bugs messages log. 
+</p>
+<p>
     - the payload that API we use for calling API.
 </p>
+   
+
 <h3>
 We have to tell this important informations that :
 </h3>
 <p>
+<b>
 - We do not rent, sell or share personal information about you with other people or non-affiliated companies.
+</b>
 </p>
 <p>
 - We never collects your browsing history, IP address and others.
