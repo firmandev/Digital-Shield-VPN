@@ -3,6 +3,5 @@ description: Unlimited Bandwidth and Secured VPN
 logo : './favicon.ico'
 show_downloads: false
 google_analytics:
-# remote_theme: firmandev/minimal
 github:
   is_project_page: false
