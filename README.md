@@ -48,7 +48,17 @@ Change the payment method when paying the 1 yearly plan, the code will be reedem
 <a href="https://play.google.com/store/apps/details?id=com.digitalshield&hl=en&gl=US">
     <img src="https://lh3.googleusercontent.com/q1k2l5CwMV31JdDXcpN4Ey7O43PxnjAuZBTmcHEwQxVuv_2wCE2gAAQMWxwNUC2FYEOnYgFPOpw6kmHJWuEGeIBLTj9CuxcOEeU8UXyzWJq4NJM3lg=s0">
 </a>
-    
+<h2>Here are some reviews from users</h2>
+<table>
+    <tr>
+        <td>
+            <img src="./testimonial1.jpeg" width="100%">
+        </td>
+        <td>
+            <img src="./testimonial1.jpeg" width="100%">
+        </td>
+    </tr>
+</table>
 
 
 

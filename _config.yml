@@ -1,8 +1,6 @@
 title: Digital Shield
 description: Unlimited and Secured VPN
 favicon : './favicon.ico'
-testimoni1 : './testimonial1.jpeg'
-testimoni2 : './testimonial2.jpeg'
 show_downloads: false
 google_analytics:
 remote_theme: firmandev/minimal
