@@ -13,10 +13,7 @@
 Types of information we may collect from you
 
 We may collect, store and use the following kinds of personal information about individuals who use our application:
-
-Information you supply to us. You may supply us with information about you by filling in forms on our application. This includes information you provide when you submit a feedback form. The information you give us may include your version of Digital Shield VPN app and the feedback that you input .
-
-Information our application automatically collects about you. With regard to each of your interacting to our application we may automatically collect information 
+Information you supply to us. You may supply us with information about you by filling in forms on our application. This includes information you provide when you submit a feedback form. The information you give us may include your version of Digital Shield VPN app and the feedback that you input. We also collect information automatically when you are using our app.
 </p>
 <p>
 including the following:
@@ -25,14 +22,10 @@ including the following:
     technical information :
 </p>
 <p>
-    <b>
     - including error / bugs messages log. 
-    </b>
 </p>
 <p>
-    <b>
     - the payload that API we use for calling API.
-    </b>
 </p>
    
 
@@ -40,20 +33,19 @@ including the following:
 We have to tell this important informations that :
 </h3>
 <p>
-
 - We do not rent, sell or share personal information about you with other people or non-affiliated companies.
 </p>
 <p>
-
 - We never collects your browsing history, IP address and others.
 </p>
 <p>
-
 - We never asking permissions such as camera, microphones and others.
 </p>
 <p>
-
 - We only asking internet and network permission for our app to work properly.
+</p>
+<p>
+- We never asking / recording any permission / your information besides that we state before.
 </p>
 <p>
 We will use all reasonable efforts to ensure that your personal data is not disclosed to regional/national institutions and authorities, unless required by law or other regulations.
@@ -62,20 +54,20 @@ We will use all reasonable efforts to ensure that your personal data is not disc
 Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
 </p>
 <p>
-https://app.appodeal.com/
+https://app.appodeal.com/](https://appodeal.com/privacy-policy/
 </p>
 <p>
-Our app may, from time to time, using their services as ads provider. If you follow a link to any of this website, please note that their website have their own privacy policies and that we do not accept any responsibility or liability for theirs policies.
+We have partnership with a third party who provides us adsense to show when you are using our application, they might be recording some of your information to make their services working properly. You can visit the link that we attach above and read their privacy policy to make it clear what they do with your data. We never responsible for the third party privacy policy because they have their own authority about user data management and it is beyond our control.
 </p>
 <p>
-If you have a complaint about how we have used your information, you have the right to complain to us to changes our privacy policy
-</p>
-<p>
+If you have a complaint about how we have used your information, you have the right to complain to us to changes our privacy policy.
 Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by app notification. Please check back frequently to see any updates or changes to our privacy policy.
-</p>
-<p>
 Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to firman.developers@gmail.com.
 </p>
 <p>
-   This Privacy Policy created at 2022-10-15
+   This Privacy Policy 
+   <br>
+   created at 2022-10-15
+   <br>
+   last updated at 2022-10-22 
 </p>
