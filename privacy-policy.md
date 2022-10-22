@@ -20,6 +20,7 @@ including the following:
 </p>
 <p>
     technical information :
+    <br>
     - including error / bugs messages log. 
      <br>
     - the payload that API we use for calling API.
