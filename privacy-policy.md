@@ -21,6 +21,7 @@ including the following:
 <p>
     technical information :
     - including error / bugs messages log. 
+     <br>
     - the payload that API we use for calling API.
 </p>
 <h3>
@@ -28,9 +29,13 @@ We have to tell this important informations that :
 </h3>
 <p>
 - We do not rent, sell or share personal information about you with other people or non-affiliated companies.
+     <br>
 - We never collects your browsing history, IP address and others.
+     <br>
 - We never asking permissions such as camera, microphones and others.
+     <br>
 - We only asking internet and network permission for our app to work properly.
+     <br>
 - We never asking / recording any permission / your information besides that we state before.
 </p>
 <p>
