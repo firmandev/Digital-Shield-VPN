@@ -20,31 +20,17 @@ including the following:
 </p>
 <p>
     technical information :
-</p>
-<p>
     - including error / bugs messages log. 
-</p>
-<p>
     - the payload that API we use for calling API.
 </p>
-   
-
 <h3>
 We have to tell this important informations that :
 </h3>
 <p>
 - We do not rent, sell or share personal information about you with other people or non-affiliated companies.
-</p>
-<p>
 - We never collects your browsing history, IP address and others.
-</p>
-<p>
 - We never asking permissions such as camera, microphones and others.
-</p>
-<p>
 - We only asking internet and network permission for our app to work properly.
-</p>
-<p>
 - We never asking / recording any permission / your information besides that we state before.
 </p>
 <p>
