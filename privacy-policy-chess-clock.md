@@ -29,7 +29,7 @@ Questions, comments and requests regarding this privacy policy are welcomed and 
 <p>
    This Privacy Policy 
    <br>
-   created at 2022-10-15
+   created at 2022-11-05
    <br>
-   last updated at 2022-10-22 
+   last updated at 2022-11-05
 </p>
